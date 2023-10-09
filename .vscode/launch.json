@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sofivazsanch/Documents/GitHub/Clase--2",
+      "program": "/Users/sofivazsanch/Documents/GitHub/Clase--2/build/Debug/outDebug"
+    }
+  ]
+}
